@@ -1,6 +1,6 @@
 运行截图：
 
-![Uploading 266610958-8b8a67d0-05ae-4aa4-a71b-b271193fe5d9.png…]()
+![266610958-8b8a67d0-05ae-4aa4-a71b-b271193fe5d9](https://github.com/13558882230/substrate-node-poe/assets/134274927/041b5ae8-330e-4606-a35b-9dc43e155d09)
 
 创建存证：
 ![image](https://github.com/lvyongnj/substrate-node-poe/assets/10841763/d6f4a58e-eda3-49a1-a83a-b86036c549f5)
